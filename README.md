@@ -8,11 +8,11 @@ This interactive Power BI dashboard provides a comprehensive analysis of insuran
 ## 📌 Key Features
 - Policies Managed: 508K total policies opened by EIC
 - Financial Overview:
- - Total Premium Collected: $4B
- - Total Claims Made: $9B
- - Average Premium: $8K
- - Average Claim: $18K
- - Premium to Claim Ratio: 44%
+  - Total Premium Collected: $4B
+  - Total Claims Made: $9B
+  - Average Premium: $8K
+  - Average Claim: $18K
+  - Premium to Claim Ratio: 44%
 
 - Top Policy Holders by Vehicle Type:
   - Highest: Motor-cycles (106K policies)
