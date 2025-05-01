@@ -60,7 +60,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of insuran
 ![Policy Dashboard](https://github.com/user-attachments/assets/2258d8b4-86bf-42a0-880b-2be1bdf62eb8)
 
 ### Details Table
-![Details Table( Policy Dashboard)](https://github.com/user-attachments/assets/6ee9e8f1-8338-4e04-b142-484c83120a1b)
+![Details Table( Policy Dashboard)](https://github.com/user-attachments/assets/c1a37412-1ef7-48fb-a513-a847c38faca5)
 
 ### Tooltip
 ![Tooltip( Policy Dashboard)](https://github.com/user-attachments/assets/cf446a7d-cd0c-421c-9269-593d664c68e7)
